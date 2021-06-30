@@ -1,7 +1,7 @@
-Christopher Matthews
-- Classical Pianist
-- Unix programmer (FreeBSD)
-- Unix system administrator
+# Christopher Matthews
+* Classical Pianist
+* Unix programmer (FreeBSD)
+* Unix system administrator
 
 <!---
 cpmatthews/cpmatthews is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
